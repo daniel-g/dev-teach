@@ -1,0 +1,36 @@
+# Programados para diseñar
+
+## La rifa
+
+### Problema
+
+- Cada 3 pizzas del mismo cliente entra a una rifa
+- La rifa consta de 3 premios:
+  * Audifonos
+  * Mouse
+  * Bote para el agua
+
+### Preguntas
+
+- Quien se encarga del guardado de la informacion?
+- Que implica guardar la informacion?
+- Que informacion necesita cada parte del proceso para funcionar?
+- Como puedes probar que cada parte funciona?
+
+## Una cafeteria
+
+### Problema
+
+- Venden tarjetas para regalar tiempo
+- Puedes regalar 10 minutos, 15 minutos o 30 minutos con un desconocido.
+- Si compras mas de una hora en tarjetas, la cafeteria regala otro cafe a
+  alguno de los asistentes.
+- La cafeteria quiere saber quienes compran mucho tiempo para poderles ofrecer
+  un servicio de grupo de lectura para clientes frecuentes.
+
+### Preguntas
+
+- Modela los objetos que deberian interactuar para poder manejar el negocio
+- Cuales son los factores que intervienen en la estadistica?
+- Cuantas personas necesitarias para manejar el negocio?
+- Como modelarias la solucion tecnica del problema?
